@@ -1,2 +1,2 @@
-# Counterapp
+# timerapp
 react
